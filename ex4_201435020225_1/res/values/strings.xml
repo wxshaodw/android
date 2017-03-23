@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ex4_201435020225_1</string>
+    <string name="hello_world">欢迎选择DIY</string>
+    <string name="tip_password">请输入密码</string>
+    <string name="tip_username">请输入用户名</string>
+    <string name="login">登录</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="register">注册</string>
+    <string name="title_activity_pro4_201435020225_2">Pro4_201435020225_2Activity</string>
+    <string name="academic_prompt">请选择学历</string>
+    <string-array name="academic">
+        <item>博士</item>
+        <item>硕士</item>
+        <item>大学</item>
+        <item>高中</item>
+    </string-array>
+</resources>
